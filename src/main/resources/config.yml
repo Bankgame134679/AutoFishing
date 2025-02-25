@@ -1,5 +1,5 @@
 Ticks_After_Bitten: 5
-Ticks_After_Caught: 20
+Ticks_After_Caught: 40
 Only_Specific_Rod:
   Enable: false
   Rod_Name: "&6Auto Fishing Rod"
